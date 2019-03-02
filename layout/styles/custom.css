@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*
+Author: <a href="https://www.dihe.eu">www.dihe.eu</a>
+Licence: All Rights Reserves
+Licence URI: https://www.dihe.eu/LICENSE.MD
+File: Layout CSS
+*/
+
+
+@media (max-width: 300px) {
+    .bgded {
+      background-image:url("/images/backgrounds/schaumberg-300.png");
+    }
+    .bgded.narrow {
+      background-image:url('/images/backgrounds/schaumberg-narrow-300.jpg');
+    }
+  }
+  @media (min-width: 301px) and (max-width: 768px) {
+    .bgded {      
+      background-image:url("/images/backgrounds/schaumberg-768.png");
+    }
+    .bgded.narrow {
+      background-image:url('/images/backgrounds/schaumberg-narrow-768.jpg');
+    }
+  }
+  @media (min-width: 769px) and (max-width: 1440px) {
+    .bgded {
+      background-image:url("/images/backgrounds/schaumberg-1440.png");
+    }
+    .bgded.narrow {
+      background-image:url('/images/backgrounds/schaumberg-narrow-1440.jpg');
+    }
+  }
+  @media (min-width: 1441px) {
+    .bgded {
+      background-image:url('/images/backgrounds/schaumberg-1920.jpg');
+    }
+    .bgded.narrow {
+      background-image:url('/images/backgrounds/schaumberg-narrow-1920.jpg');
+    }
+  }
