@@ -1,0 +1,26 @@
+{
+  "name": "www.dihe.eu",
+  "version": "0.0.0",
+  "description": "personal website",
+  "main": "index.html",
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-a-s-c-a-l/www.dihe.eu.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Pascal Dihé",
+  "license": "SEE LICENSE IN LICENSE.MD",
+  "bugs": {
+    "url": "https://github.com/p-a-s-c-a-l/www.dihe.eu/issues"
+  },
+  "homepage": "https://github.com/p-a-s-c-a-l/www.dihe.eu#readme"
+}
