@@ -1,0 +1,11 @@
+{
+    "html.autoClosingTags": false,
+    "spellright.language": [
+        "German"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}

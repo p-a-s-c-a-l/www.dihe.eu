@@ -8,7 +8,8 @@ Licence URI: https://www.os-templates.com/template-terms
 File: Layout CSS
 */
 
-@import url("fontawesome-4.5.0.min.css");
+/*@import url("fontawesome-4.5.0.min.css");*/
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
 @import url("framework.css");
 
 /* Rows
@@ -27,7 +28,7 @@ File: Layout CSS
 #header #logo{text-align:center;}
 #header #logo *{margin:0; padding:0; line-height:1;}
 #header #logo h1{font-size:42px; letter-spacing:5px; text-transform:uppercase;}
-#header #logo p{margin-top:-3px; font-size:.9rem; font-style:italic; text-transform:lowercase;}
+#header #logo p{margin-top:-3px; font-size:.9rem; font-style:italic;}
 
 
 /* Page Intro
@@ -150,7 +151,7 @@ File: Layout CSS
 nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 #mainav, #breadcrumb, .sidebar nav{line-height:normal;}
-#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"FontAwesome"; font-size:10px; line-height:10px;}
+#mainav .drop::after, #mainav li li .drop::after, #breadcrumb li a::after, .sidebar nav a::after{position:absolute; font-family:"Font Awesome\ 5 Free"; font-weight:900; font-size:10px; line-height:10px;}
 
 /* Top Navigation */
 #mainav{margin-bottom:40px; border-bottom:1px solid;}
@@ -179,8 +180,8 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #breadcrumb{padding:50px 0 20px;}
 #breadcrumb ul{margin:0; padding:0; list-style:none;}
 #breadcrumb li{display:inline-block; margin:0 6px 0 0; padding:0;}
-#breadcrumb li a{display:block; position:relative; margin:0; padding:0 12px 0 0; font-size:12px;}
-#breadcrumb li a::after{top:5px; right:0; content:"\f101";}
+#breadcrumb li a{display:block; position:relative; margin:0; padding:0 22px 0 0px; font-size:12px;}
+#breadcrumb li a::after{top:3px; right:0; content:"\f0c8";}
 #breadcrumb li:last-child a{margin:0; padding:0;}
 #breadcrumb li:last-child a::after{display:none;}
 
@@ -188,7 +189,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 .sidebar nav{display:block; width:100%;}
 .sidebar nav li{margin:0 0 3px 0; padding:0;}
 .sidebar nav a{display:block; position:relative; margin:0; padding:5px 10px 5px 15px; text-decoration:none; border:solid; border-width:0 0 1px 0;}
-.sidebar nav a::after{top:9px; left:5px; content:"\f101";}
+.sidebar nav a::after{top:9px; left:5px; content:"\f105";}
 .sidebar nav ul ul a{padding-left:35px;}
 .sidebar nav ul ul a::after{left:25px;}
 .sidebar nav ul ul ul a{padding-left:55px;}
@@ -235,7 +236,7 @@ td{border-width:0 1px;}
 body{color:#888888; background-color:#FFFFFF;}
 a{color:#82A800;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
-hr, .borderedbox{border-color:#D7D7D7;}
+hr, .borderedboxbox{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#82A800;}
 .overlay{color:#FFFFFF; background-color:inherit;}
@@ -294,8 +295,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#82A800;}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#82A800;}
 #mainav form select{color:#FFFFFF; background-color:#1F1F1F; border-color:#000000;}
 
-#breadcrumb a{color:inherit; background-color:inherit;}
-#breadcrumb li:last-child a{color:#82A800;}
+/*#breadcrumb a{color:inherit; background-color:inherit;}
+#breadcrumb li:last-child a{color:#82A800;}*/
 
 .container .sidebar nav a{color:inherit; border-color:#D7D7D7;}
 .container .sidebar nav a:hover{color:#82A800;}

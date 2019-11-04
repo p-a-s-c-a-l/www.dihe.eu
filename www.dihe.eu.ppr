@@ -1,0 +1,54 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.CompileOnBackground=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=E:\HomePage\www.dihe.eu
+DefaultCP=65001
+LogtoEnd=0
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=1
+DocumentRoot=E:\HomePage\www.dihe.eu
+HTServer=http://127.0.0.1:8080/
+Extensions=*.html
+[Project tree]
+www.dihe.eu
+	+/
+		+aktuelles
+			aktuelles\ausstellungen.html
+			aktuelles\letzte-arbeiten.html
+			aktuelles\neuigkeiten.html
+		+informationen
+			informationen\empfehlungen.html
+			informationen\referenzen.html
+			informationen\ueber-meine-arbeit.html
+		+kontakt
+			kontakt\impressum.html
+			kontakt\datenschutz.html
+		+portfolio
+			portfolio\saarlandschaft.html
+			portfolio\schattenwelten.html
+			portfolio\vergessene-orte.html
+		include.html
+		index.html
+[Open project files]
+0=informationen\ueber-meine-arbeit.html
+1=informationen\empfehlungen.html
+2=informationen\referenzen.html
+3=kontakt\impressum.html
+4=portfolio\saarlandschaft.html
+5=portfolio\schattenwelten.html
+6=portfolio\vergessene-orte.html
+7=aktuelles\ausstellungen.html
+8=aktuelles\letzte-arbeiten.html
+9=aktuelles\neuigkeiten.html
+10=index.html
+11=kontakt\datenschutz.html
+12=include.html
+[Selected Project Files]
+Main=include.html
+Selected=index.html

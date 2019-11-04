@@ -39,3 +39,56 @@ File: Layout CSS
       background-image:url('/images/backgrounds/schaumberg-narrow-1920.jpg');
     }
   }
+
+  /* ----------------------------------------------Blockquote------------------------------------- */
+blockquote {
+	font-size:1.7em;
+	margin:35px 150px 5px 0;
+	color:#787878;
+	background:url(/images/quote.png) top left no-repeat;
+	padding:25px 0 0 0;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	text-align:justify;
+}
+
+blockquote p {
+	line-height:36px;
+	text-align:justify;
+}
+
+/* Gallery
+--------------------------------------------------------------------------------------------------------------- */
+.gallery{display:block; width:100%; margin-bottom:10px; margin-top:10px;}
+.gallery figure figcaption{display:block; width:100%; clear:both;}
+
+/* Imprint
+--------------------------------------------------------------------------------------------------------------- */
+#imprint{padding:50px 0;}
+
+#imprint .title{margin:0 0 50px 0; padding:0; font-size:1.2rem; text-transform:uppercase;}
+
+#imprint .linklist li{display:block; margin-bottom:15px; padding:0 0 15px 0; border-bottom:1px solid;}
+#imprint .linklist li:last-child{margin:0; padding:0; border:none;}
+#imprint .linklist li::before, #imprint .linklist li::after{display:table; content:"";}
+#imprint .linklist li, #imprint .linklist li::after{clear:both;}
+
+#imprint .contact{}
+#imprint .contact.linklist li, #imprint .contact.linklist li:last-child{position:relative; padding-left:40px;}
+#imprint .contact li *{margin:0; padding:0; line-height:1.6;}
+#imprint .contact li i{display:block; position:absolute; top:0; left:0; width:30px; font-size:16px; text-align:center;}
+
+#imprint input, #imprint button{border:1px solid;}
+#imprint input{display:block; width:100%; padding:8px;}
+#imprint button{padding:8px 18px 10px; text-transform:uppercase; font-weight:700; cursor:pointer;}
+
+/* Imprint
+--------------------------------------------------------------------------------------------------------------- */
+.flickrbox ul{margin:0; padding:0; list-style:none;}
+.flickrbox li{display:block; float:left; width:80px; height:80px; margin:0 15px 15px 0; padding:4px; border:1px solid #666666;}
+.flickrbox li.last{margin-right:0;}
+
+/* Paragraph
+--------------------------------------------------------------------------------------------------------------- */
+.paragraph {
+  text-align:justify;
+}

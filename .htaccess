@@ -1,0 +1,54 @@
+# Turn on Expires and set default to 0
+ExpiresActive On
+ExpiresDefault A0
+
+CheckSpelling on
+
+Options +FollowSymlinks
+Options -Indexes
+
+AddDefaultCharset UTF-8
+AddType application/rss+xml rss
+
+<FilesMatch "\.(ini|~.*|bak|org|old|001|cache|ppr|db|code-workspace|ppr)$">  
+  order allow,deny
+  deny from all
+</FilesMatch>
+
+#<FilesMatch "\.(xml|swf|jpg|png|jpeg|gif)$">  
+#	Header set X-Robots-Tag: "noindex"
+#</FilesMatch>
+
+<FilesMatch "\.(xml)$">  
+	Header set X-Robots-Tag: "noindex"
+</FilesMatch>
+
+<Files .htaccess>
+  order allow,deny
+  deny from all
+</Files>
+
+# Set up caching on media files for 1 year (forever?)
+<FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav)$">
+ExpiresDefault A29030400
+Header append Cache-Control "public, proxy-revalidate, must-revalidate"
+</FilesMatch>
+ 
+# Set up caching on media files for 1 week
+<FilesMatch "\.(gif|jpg|jpeg|png|swf)$">
+ExpiresDefault A604800
+Header append Cache-Control "public, proxy-revalidate, must-revalidate"
+</FilesMatch>
+ 
+# Set up 2 Hour caching on commonly updated files
+<FilesMatch "\.(xml|txt|html|js|css|rss)$">
+ExpiresDefault A7200
+Header append Cache-Control "public, proxy-revalidate, must-revalidate"
+</FilesMatch>
+ 
+# Force no caching for dynamic files
+<FilesMatch "\.(php|cgi|pl)$">
+ExpiresActive Off
+Header set Cache-Control "private, no-cache, no-store, proxy-revalidate, must-revalidate, no-transform"
+Header set Pragma "no-cache"
+</FilesMatch>

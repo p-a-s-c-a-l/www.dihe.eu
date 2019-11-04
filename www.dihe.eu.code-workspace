@@ -5,6 +5,17 @@
 		}
 	],
 	"settings": {
-		"html.format.wrapLineLength": 160
+		"files.useExperimentalFileWatcher" : true,
+		"html.format.wrapLineLength": 160,
+		"html.format.contentUnformatted": "pre,code,textarea,comment",
+		"html.format.unformatted": "wbr",
+		"files.exclude": {
+			"**/*.bak": true
+		},
+		"files.trimFinalNewlines": true,
+		"telemetry.enableCrashReporter": false,
+		"telemetry.enableTelemetry": false,
+		"css.lint.float": "warning",
+		"html.autoClosingTags": false,
 	}
 }
