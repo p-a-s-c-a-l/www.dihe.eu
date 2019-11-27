@@ -9,34 +9,46 @@ File: Layout CSS
 
 @media (max-width: 300px) {
     .bgded {
-      background-image:url("/images/backgrounds/schaumberg-300.png");
+      background-image:url("/images/backgrounds/schaumberg-300.jpg");
     }
     .bgded.narrow {
       background-image:url('/images/backgrounds/schaumberg-narrow-300.jpg');
     }
+    .bgded.frontpage {
+      background-image:url('/images/backgrounds/weingeisterschloss-300.jpg');
+    }
   }
   @media (min-width: 301px) and (max-width: 768px) {
     .bgded {      
-      background-image:url("/images/backgrounds/schaumberg-768.png");
+      background-image:url("/images/backgrounds/schaumberg-768.jpg");
     }
     .bgded.narrow {
       background-image:url('/images/backgrounds/schaumberg-narrow-768.jpg');
     }
+    .bgded.frontpage {
+      background-image:url('/images/backgrounds/weingeisterschloss-768.jpg');
+    }
   }
   @media (min-width: 769px) and (max-width: 1440px) {
     .bgded {
-      background-image:url("/images/backgrounds/schaumberg-1440.png");
+      background-image:url("/images/backgrounds/schaumberg-1440.jpg");
     }
     .bgded.narrow {
       background-image:url('/images/backgrounds/schaumberg-narrow-1440.jpg');
     }
+    .bgded.frontpage {
+      background-image:url('/images/backgrounds/weingeisterschloss-1440.jpg');
+    }
   }
   @media (min-width: 1441px) {
     .bgded {
-      background-image:url('/images/backgrounds/schaumberg-1920.jpg');
+      background-image:linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url('/images/backgrounds/schaumberg-1920.jpg');
     }
     .bgded.narrow {
       background-image:url('/images/backgrounds/schaumberg-narrow-1920.jpg');
+    }
+    .bgded.frontpage {
+      background-image:url('/images/backgrounds/weingeisterschloss-1920.jpg');
     }
   }
 
