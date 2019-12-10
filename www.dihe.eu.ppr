@@ -33,6 +33,7 @@ www.dihe.eu
 			portfolio\saarlandschaft.html
 			portfolio\schattenwelten.html
 			portfolio\vergessene-orte.html
+			portfolio\industriekultur.html
 		include.html
 		index.html
 [Open project files]
@@ -49,6 +50,7 @@ www.dihe.eu
 10=index.html
 11=kontakt\datenschutz.html
 12=include.html
+13=portfolio\industriekultur.html
 [Selected Project Files]
 Main=include.html
 Selected=index.html
