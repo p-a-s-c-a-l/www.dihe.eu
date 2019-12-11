@@ -25,14 +25,14 @@ Licence URI: https://www.os-templates.com/template-terms
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="content-language" content="de-DE" />
 	<meta name="author" content="Pascal Dih&eacute;" />
-	<meta name="date" content="2019-03-03T00:00:00+02:00" />
+	<meta name="date" content="2019-12-09T00:00:00+02:00" />
 
 	<!-- Style Links -->
 	<link href="/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 	<link href="/layout/styles/custom.css" rel="stylesheet" type="text/css" media="all">
 	<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.7.2/css/all.css" 
 		integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-	<link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" type="text/css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" type="text/css"/>
 
 	<!-- Site Links -->
 	<link rel="start" href="/" title="Startseite" />
@@ -41,7 +41,7 @@ Licence URI: https://www.os-templates.com/template-terms
 	<link rel="icon" href="/favicon.ico" />
 
 	<!-- JAVASCRIPTS -->
-	<script src="/layout/scripts/jquery.min.js" type="text/javascript" defer></script>
+	<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 	<script src="/layout/scripts/jquery.backtotop.js" type="text/javascript" defer></script>
 	<script src="/layout/scripts/jquery.mobilemenu.js" type="text/javascript" defer></script>
 	<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" type="text/javascript" charset="utf-8"></script>
@@ -67,16 +67,16 @@ Licence URI: https://www.os-templates.com/template-terms
 					<ul class="clear">
 						<li><a class="drop">Portfolio</a>
 							<ul>
-								<li><a href="/portfolio/vergessene-orte.html">Vergessene Orte</a></li>
-								<li><a href="/portfolio/schattenwelten.html">Schattenwelten</a></li>
-								<li><a href="/portfolio/saarlandschaft.html">SaarLandschaft</a></li>
+								<li><a href="/portfolio/saarlandschaft.html" title="Verborgene Naturdenkmale in der SaarLandschaft">Naturdenkmale</a></li>
+								<li><a href="/portfolio/industriekultur.html" title="Relikte der Montanindustrie">Industriekultur</a></li>
+								<li><a href="/portfolio/vergessene-orte.html" title="Menschenleer & Schattenwelten">Vergessene Orte</a></li>
 							</ul>
 						</li>
 						<li><a class="drop">Informationen</a>
 							<ul>
 								<li><a href="/informationen/ueber-meine-arbeit.html">Über meine Arbeit</a></li>
 								<li><a href="/informationen/referenzen.html">Referenzen</a></li>
-								<li><a href="/informationen/empfehlungen.html">Empfehlungen</a></li>
+								<!--<li><a href="/informationen/empfehlungen.html">Empfehlungen</a></li>-->
 							</ul>
 						</li>
 						<li><a class="drop">Aktuelles</a>
@@ -180,9 +180,7 @@ Licence URI: https://www.os-templates.com/template-terms
 										width="180" height="130" />
 									<p>Der Besitzer des <a href="http://www.restokrim.de/" title="Restaurant und Café-Bistro Krim">Restaurants Krim</a> in Trier, Herr Jung, hat
 										mir freundlicherweise erlaubt, einige Fotos dort auszustellen.
-										Zu sehen gibt es alte und neue Fotos aus den Serien <a href="/portfolio/vergessene-orte.html" title="Vergessene Orte">Vergessene Orte</a>
-										und
-										<a href="/portfolio/schattenwelten.html" title="Schattenwelten">Schattenwelten</a>. Die Ausstellung läuft noch bis Ende Mai 2012.</p>
+										Zu sehen gibt es alte und neue Fotos aus den Serien <a href="/portfolio/vergessene-orte.html" title="Vergessene Orte">Vergessene Orte</a>. Die Ausstellung läuft noch bis Ende Mai 2012.</p>
 									<p>
 										<strong>Restaurant Krim</strong><br />
 										Glockenstraße 7<br />
@@ -219,7 +217,7 @@ Licence URI: https://www.os-templates.com/template-terms
 										<strong>Anreise:</strong> <a href="http://www.bildungszentrum-kirkel.de/cgi-bin/sys/struktur.dante?aid=30693&window=&node_id=31290"
 											title="Bildungszentrum Kirkel" target="_blank">Bildungszentrum Kirkel</a><br />
 										<strong>Weitere Informationen:</strong> <a
-											href="http://www.bildungszentrum-kirkel.de/cgi-bin/sys/struktur.dante?cmd=_download&aid=30693&node_id=43159"
+											href="/aktuelles/ausstellungen/Flyer_Parallelwelten.pdf"
 											title="Flyer Fotoausstellung Parallelwelten">Flyer Fotoausstellung "Parallelwelten" (383 KB)</a>
 									</p>
 								</div>
@@ -237,8 +235,7 @@ Licence URI: https://www.os-templates.com/template-terms
 									<img class="imgl borderedbox inspace-5" src="/aktuelles/ausstellungen/weihnachtszauber_wunderbar_2011.jpg"
 										alt="Weihnachtszauber wunderbar 2011" width="140" height="140" />
 									<p>Am 19. und 20. November werde ich einige der Fotos aus der Serie <a href="/portfolio/vergessene-orte.html"
-											title="Menschenleer">„Menschenleer“</a>, die bereits in der <a href="/neuigkeiten/#14-08-2011"
-											title="18.08.2011: Fotoausstellung Menschenleer in Habach">Ausstellung im Bauernhaus Habach</a> zu sehen waren, während Andrea Juchems und
+											title="Menschenleer">„Menschenleer“</a>, die bereits in der Ausstellung im Bauernhaus Habach zu sehen waren, während Andrea Juchems und
 										Andrea Gercke-Reinchs <a href="https://bachmichels.wordpress.com/2011/11/12/weihnachtszauber-wunderbar-2011/"
 											title="Weihnachtszauber 2011 in Bachmichels Haus">„Weihnachtszauber“</a> in „Bachmichels Haus“ in der Bahnhofstraße in Eppelborn zum
 										Verkauf anbieten.</p>
@@ -354,7 +351,7 @@ Licence URI: https://www.os-templates.com/template-terms
 			<!-- ################################################################################################ -->
 <!-- Imprint_DE -->
 			<div class="one_quarter first">
-				<h2>Impressum</h2>
+				<a name="Impressum"></a><h2>Impressum</h2>
 				<p>Angaben gemäß §5 TMG:</p>
 				<ul class="nospace linklist contact">
 					<li><i class="fas fa-home"></i>
@@ -368,7 +365,7 @@ Licence URI: https://www.os-templates.com/template-terms
 				</ul>
 			</div>
 			<div class="one_half">
-				<h2>Kontaktformular</h2>
+				<a name="Kontaktformular"></a><h2>Kontaktformular</h2>
 				<form action="mailto:pascal@dihe.eu" enctype="text/plain">
 					<fieldset>
 						<legend>Kontaktformular</legend>

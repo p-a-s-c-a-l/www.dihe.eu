@@ -22,6 +22,8 @@ www.dihe.eu
 			aktuelles\ausstellungen.html
 			aktuelles\letzte-arbeiten.html
 			aktuelles\neuigkeiten.html
+			aktuelles\neuigkeiten-1.html
+			aktuelles\ausstellungen-1.html
 		+informationen
 			informationen\empfehlungen.html
 			informationen\referenzen.html
@@ -49,6 +51,8 @@ www.dihe.eu
 10=kontakt\datenschutz.html
 11=include.html
 12=portfolio\industriekultur.html
+13=aktuelles\ausstellungen-1.html
+14=aktuelles\neuigkeiten-1.html
 [Selected Project Files]
 Main=include.html
-Selected=index.html
+Selected=include.html

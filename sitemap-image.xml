@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.dihe.eu/</loc>
+    <lastmod>2019-12-11T10:10:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/vergessene-orte.jpg</image:loc>
+      <image:title>vergessene orte</image:title>
+      <image:caption>vergessene orte - 28630 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/news-latest-2.jpg</image:loc>
+      <image:caption>Neuigkeiten #3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/news-latest-3.jpg</image:loc>
+      <image:caption>Neuigkeiten #3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/news-latest-1.jpg</image:loc>
+      <image:caption>Neuigkeiten #1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/industriekultur.jpg</image:loc>
+      <image:title>industriekultur</image:title>
+      <image:caption>industriekultur - 42904 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/frontpage/saarlandschaft.jpg</image:loc>
+      <image:title>saarlandschaft</image:title>
+      <image:caption>saarlandschaft - 41028 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/das-unentdeckte-land.png</image:loc>
+      <image:title>Screenshot der alten Webseite</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/aktuelles/ausstellungen-1.html</loc>
+    <lastmod>2019-12-11T10:15:12+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/junge-kunst-in-der-aula.jpg</image:loc>
+      <image:caption>Junge Kunst in der Aula</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/restaurant-krim.jpg</image:loc>
+      <image:caption>Fotoausstellung im Restaurant Krim</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/urban-exploring-saarbruecken.jpg</image:loc>
+      <image:caption>Fotoausstellung Urban Exploring in Saarbrücken</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/menschenleer-bauernhaus-habach.jpg</image:loc>
+      <image:caption>Menschenleer</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/parallelwelten-arbeitskammer-kirkel.jpg</image:loc>
+      <image:caption>Parallelwelten</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/weihnachtszauber_wunderbar_2011.jpg</image:loc>
+      <image:caption>Weihnachtszauber wunderbar 2011</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/das-unentdeckte-land.jpg</image:loc>
+      <image:caption>Das unentdeckte Land</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/Plakat-Urban-Exploring.jpg</image:loc>
+      <image:title>Plakat Fotoausstellung Urban Exploring</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/aktuelles/ausstellungen.html</loc>
+    <lastmod>2019-12-11T10:10:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/reise-ins-ich-galerie-beck.jpg</image:loc>
+      <image:caption>Die Reise ins Ich</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/ausstellungen/zeichen-der-zeit-kirkel.jpg</image:loc>
+      <image:caption>Fotoausstellung Zeichen der Zeit in Kirkel</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/aktuelles/neuigkeiten-1.html</loc>
+    <lastmod>2019-12-11T10:10:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/tom-fahy-orchard-park.jpg</image:loc>
+      <image:caption>tom fahy - orchard park.jpg</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/unser-schaumberg.jpg</image:loc>
+      <image:caption>Unser Schaumberg</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/giuseppe_verdi_messa-da-requiem.jpg</image:loc>
+      <image:caption>Giuseppe Verdi - Messa da Requiem</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/don-grusin-old-friends.jpg</image:loc>
+      <image:caption>Don Grusin: old friends and relatives</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/Yuji-Nishiyama-Catastrophe-and-the-Humanities.jpg</image:loc>
+      <image:caption>Yuji Nishiyama</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/Karen-Hall-Dark-Debts.jpg</image:loc>
+      <image:caption>Dark Debts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/was-ist-was-stalaktiten.jpg</image:loc>
+      <image:caption>Stalaktiten</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/aktuelles/neuigkeiten.html</loc>
+    <lastmod>2019-12-11T10:10:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/wikimedia-commons.png</image:loc>
+      <image:caption>Wikimedia Commons</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/redesign-webseite.jpg</image:loc>
+      <image:caption>www.dihe.eu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/aktuelles/neuigkeiten/social-networks.jpg</image:loc>
+      <image:caption>Social Networks</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/informationen/referenzen.html</loc>
+    <lastmod>2019-12-11T10:10:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_18_1.jpg</image:loc>
+      <image:title>ref 18 1</image:title>
+      <image:caption>ref 18 1 - 4617 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_26_1.jpg</image:loc>
+      <image:title>ref 26 1</image:title>
+      <image:caption>ref 26 1 - 7541 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_22_1.jpg</image:loc>
+      <image:title>ref 22 1</image:title>
+      <image:caption>ref 22 1 - 3206 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_25_1.jpg</image:loc>
+      <image:title>ref 25 1</image:title>
+      <image:caption>ref 25 1 - 5910 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_02_1.jpg</image:loc>
+      <image:title>ref 02 1</image:title>
+      <image:caption>ref 02 1 - 5886 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_23_1.jpg</image:loc>
+      <image:title>ref 23 1</image:title>
+      <image:caption>ref 23 1 - 6567 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_03_1.jpg</image:loc>
+      <image:title>ref 03 1</image:title>
+      <image:caption>ref 03 1 - 6557 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_15_1.jpg</image:loc>
+      <image:title>ref 15 1</image:title>
+      <image:caption>ref 15 1 - 6917 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_07_1.jpg</image:loc>
+      <image:title>ref 07 1</image:title>
+      <image:caption>ref 07 1 - 5694 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_05_1.jpg</image:loc>
+      <image:title>ref 05 1</image:title>
+      <image:caption>ref 05 1 - 3445 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_10_1.jpg</image:loc>
+      <image:title>ref 10 1</image:title>
+      <image:caption>ref 10 1 - 4453 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_28_1.jpg</image:loc>
+      <image:title>ref 28 1</image:title>
+      <image:caption>ref 28 1 - 7666 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_20_1.jpg</image:loc>
+      <image:title>ref 20 1</image:title>
+      <image:caption>ref 20 1 - 5327 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_09_1.jpg</image:loc>
+      <image:title>ref 09 1</image:title>
+      <image:caption>ref 09 1 - 5336 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_14_1.jpg</image:loc>
+      <image:title>ref 14 1</image:title>
+      <image:caption>ref 14 1 - 3776 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_16_1.jpg</image:loc>
+      <image:title>ref 16 1</image:title>
+      <image:caption>ref 16 1 - 4401 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_01_1.jpg</image:loc>
+      <image:title>ref 01 1</image:title>
+      <image:caption>ref 01 1 - 4887 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_21_1.jpg</image:loc>
+      <image:title>ref 21 1</image:title>
+      <image:caption>ref 21 1 - 4590 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_06_1.jpg</image:loc>
+      <image:title>ref 06 1</image:title>
+      <image:caption>ref 06 1 - 3936 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_13_1.jpg</image:loc>
+      <image:title>ref 13 1</image:title>
+      <image:caption>ref 13 1 - 5778 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_04_1.jpg</image:loc>
+      <image:title>ref 04 1</image:title>
+      <image:caption>ref 04 1 - 4337 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_08_1.jpg</image:loc>
+      <image:title>ref 08 1</image:title>
+      <image:caption>ref 08 1 - 7584 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_19_1.jpg</image:loc>
+      <image:title>ref 19 1</image:title>
+      <image:caption>ref 19 1 - 6471 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_11_1.jpg</image:loc>
+      <image:title>ref 11 1</image:title>
+      <image:caption>ref 11 1 - 6119 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_27_1.jpg</image:loc>
+      <image:title>ref 27 1</image:title>
+      <image:caption>ref 27 1 - 8155 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_17_1.jpg</image:loc>
+      <image:title>ref 17 1</image:title>
+      <image:caption>ref 17 1 - 4298 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_12_1.jpg</image:loc>
+      <image:title>ref 12 1</image:title>
+      <image:caption>ref 12 1 - 5329 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/referenzen/ref_24_1.jpg</image:loc>
+      <image:title>ref 24 1</image:title>
+      <image:caption>ref 24 1 - 10763 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/informationen/ueber-meine-arbeit.html</loc>
+    <lastmod>2019-12-11T10:10:44+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/ueber-meine-arbeit/pascal-dihe-05.jpg</image:loc>
+      <image:caption>Pascal Dihé</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/ueber-meine-arbeit/pascal-dihe-01.jpg</image:loc>
+      <image:caption>Pascal Dihé</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/ueber-meine-arbeit/pascal-dihe-02.jpg</image:loc>
+      <image:caption>Pascal Dihé</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/informationen/ueber-meine-arbeit/pascal-dihe-03.jpg</image:loc>
+      <image:caption>Pascal Dihé</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/portfolio/industriekultur.html</loc>
+    <lastmod>2019-12-11T10:10:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-3_thumbnail.jpg</image:loc>
+      <image:caption>Central Thermique</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-2_thumbnail.jpg</image:loc>
+      <image:caption>Central Thermique</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-1_thumbnail.jpg</image:loc>
+      <image:caption>Central Thermique</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Bureau_Central_de_Wendel_thumbnail.jpg</image:loc>
+      <image:title>Bureau Central de Wendel thumbnail</image:title>
+      <image:caption>Bureau Central de Wendel thumbnail - 68275 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Gasmaschine_thumbnail.jpg</image:loc>
+      <image:caption>Gasmaschine</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Chaudiere-U4-2_thumbnail.jpg</image:loc>
+      <image:caption>Chaudière</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Schmelzofen_thumbnail.jpg</image:loc>
+      <image:caption>Schmelzofen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Gesenk_thumbnail.jpg</image:loc>
+      <image:caption>Gesenk</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Heizkraftwerk-1_thumbnail.jpg</image:loc>
+      <image:caption>Cockerie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cockerie-1_thumbnail.jpg</image:loc>
+      <image:caption>Cockerie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Usine_Souterraine_thumbnail.jpg</image:loc>
+      <image:title>Usine Souterraine thumbnail</image:title>
+      <image:caption>Usine Souterraine thumbnail - 63583 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cooling_Tower_thumbnail.jpg</image:loc>
+      <image:caption>Schmelzofen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Puits_Simon_IV_thumbnail.jpg</image:loc>
+      <image:caption>Carreau Simon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Centrale_Thermique_thumbnail.JPG</image:loc>
+      <image:caption>Centrale Thermique</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Heizkraftwerk-2_thumbnail.jpg</image:loc>
+      <image:caption>Cockerie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cockerie-2_thumbnail.jpg</image:loc>
+      <image:caption>Cockerie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Chaudiere-U4-1_thumbnail.jpg</image:loc>
+      <image:caption>Chaudière</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Schieferbergwerk_thumbnail.jpg</image:loc>
+      <image:caption>Lavoir</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Waschkaue_thumbnail.jpg</image:loc>
+      <image:caption>Salle des pendus</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Lavoir_3_thumbnail.jpg</image:loc>
+      <image:caption>Lavoir</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/ARBED_Schifflange_thumbnail.jpg</image:loc>
+      <image:caption>ARBED</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/katalog-vergessene-orte.jpg</image:loc>
+      <image:title>katalog vergessene orte</image:title>
+      <image:caption>katalog vergessene orte - 343076 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Gasmaschine.jpg</image:loc>
+      <image:title>Gasmaschine</image:title>
+      <image:caption>Gasmaschine - 508001 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-2.jpg</image:loc>
+      <image:title>CT 2</image:title>
+      <image:caption>CT 2 - 463880 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Centrale_Thermique.JPG</image:loc>
+      <image:title>Centrale Thermique</image:title>
+      <image:caption>Centrale Thermique - 344553 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-1.jpg</image:loc>
+      <image:title>CT 1</image:title>
+      <image:caption>CT 1 - 521389 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Bureau_Central_de_Wendel.jpg</image:loc>
+      <image:title>Bureau Central de Wendel</image:title>
+      <image:caption>Bureau Central de Wendel - 501499 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/CT-3.jpg</image:loc>
+      <image:title>CT 3</image:title>
+      <image:caption>CT 3 - 381262 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Puits_Simon_IV.jpg</image:loc>
+      <image:title>Puits Simon IV</image:title>
+      <image:caption>Puits Simon IV - 444030 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Usine_Souterraine.jpg</image:loc>
+      <image:title>Usine Souterraine</image:title>
+      <image:caption>Usine Souterraine - 473352 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/ARBED_Schifflange.jpg</image:loc>
+      <image:title>ARBED Schifflange</image:title>
+      <image:caption>ARBED Schifflange - 269947 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cooling_Tower.jpg</image:loc>
+      <image:title>Cooling Tower</image:title>
+      <image:caption>Cooling Tower - 435595 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Heizkraftwerk-1.jpg</image:loc>
+      <image:title>Heizkraftwerk 1</image:title>
+      <image:caption>Heizkraftwerk 1 - 497156 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Gesenk.jpg</image:loc>
+      <image:title>Gesenk</image:title>
+      <image:caption>Gesenk - 411576 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cockerie-1.jpg</image:loc>
+      <image:title>Cockerie 1</image:title>
+      <image:caption>Cockerie 1 - 393583 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Schieferbergwerk.jpg</image:loc>
+      <image:title>Schieferbergwerk</image:title>
+      <image:caption>Schieferbergwerk - 347273 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Lavoir_3.jpg</image:loc>
+      <image:title>Lavoir 3</image:title>
+      <image:caption>Lavoir 3 - 516501 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Waschkaue.jpg</image:loc>
+      <image:title>Waschkaue</image:title>
+      <image:caption>Waschkaue - 493963 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Chaudiere-U4-2.jpg</image:loc>
+      <image:title>Chaudiere U4 2</image:title>
+      <image:caption>Chaudiere U4 2 - 486659 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Heizkraftwerk-2.jpg</image:loc>
+      <image:title>Heizkraftwerk 2</image:title>
+      <image:caption>Heizkraftwerk 2 - 498069 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Chaudiere-U4-1.jpg</image:loc>
+      <image:title>Chaudiere U4 1</image:title>
+      <image:caption>Chaudiere U4 1 - 497433 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Cockerie-2.jpg</image:loc>
+      <image:title>Cockerie 2</image:title>
+      <image:caption>Cockerie 2 - 404267 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/industriekultur/Schmelzofen.jpg</image:loc>
+      <image:title>Schmelzofen</image:title>
+      <image:caption>Schmelzofen - 623236 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/portfolio/saarlandschaft.html</loc>
+    <lastmod>2019-12-11T10:10:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Grosse_Saarschleife_und_Baumwipfelpfad_bei_Orscholz_thumbnail.jpg</image:loc>
+      <image:caption>Große Saarschleife</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schoene_Eiche_im_Bliesgau_thumbnail.jpg</image:loc>
+      <image:caption>Eiche bei Breitfurt</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Orchideenwiese_im_Bliesgau_thumbnail.jpg</image:loc>
+      <image:caption>Orchideenwiese bei Gersheim</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/katalog-naturdenkmale_thumbnail.jpg</image:loc>
+      <image:caption>Bekannte, verborgene und vergessene Naturdenkmale im Saarland</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Marieneiche_bei_Alttrier_thumbnail.jpg</image:loc>
+      <image:caption>Marieneiche bei Hersberg</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Eiche_und_Mardelle_im_Wald_von_Sierck-les-Bains_thumbnail.jpg</image:loc>
+      <image:caption>Mardelle und Alteiche im Fôret de Sierck</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Urwald_in_der_Loesterschweiz_thumbnail.jpg</image:loc>
+      <image:caption>Urwald in der Lösterschweiz</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schlucht_bei_Rissenthal_thumbnail.jpg</image:loc>
+      <image:caption>Grät bei Rissenthal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Habichtsbuche_Stennweiler_thumbnail.jpg</image:loc>
+      <image:caption>Habichtsbuche im Stennweiler Wald</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Teufelsschornstein_Saarhoelzbach_thumbnail.jpg</image:loc>
+      <image:caption>Grät bei Rissenthal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Leitersweiler_Buche_thumbnail.jpg</image:loc>
+      <image:caption>Buche bei Leitersweiler&lt;</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schlittchen_Loestertal_thumbnail.jpg</image:loc>
+      <image:caption>Schlittchen im Löstertal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Kaltensteine_auf_dem_Hoxberg_thumbnail.jpg</image:loc>
+      <image:caption>Kaltensteine bei Lebach</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Gefrorener_Wasserfall_Felsenweg_Sankt_Arnual_thumbnail.jpg</image:loc>
+      <image:caption>Felsenwege St. Arnual</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Eichen_Stuhlsatzenhaus_thumbnail.jpg</image:loc>
+      <image:caption>Ehemalige Eichen beim Stuhlsatzenhaus</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Zigeunereiche_bei_Obersalbach-Kurhof_thumbnail.jpg</image:loc>
+      <image:caption>Zigeunereiche bei Obersalbach-Kurhof</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Naturfotografie_Saarland_thumbnail.jpg</image:loc>
+      <image:caption>Altbuche bei Saarbrücken</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Alteiche_bei_Buttnich_thumbnail.jpg</image:loc>
+      <image:caption>Alteiche bei Buttnich</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Konglomerat_Steinrutsch_bei_Dirmingen_thumbnail.jpg</image:loc>
+      <image:caption>Steinrutsch bei Dirmingen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Alteiche_auf_der_Weide_bei_Sankt_Gangolf_im_Winter_thumbnail.jpg</image:loc>
+      <image:caption>Unnereiche bei Sankt Gangolf</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Hunnenring-Keltischer_Ringwall_Otzenhausen_thumbnail.jpg</image:loc>
+      <image:caption>Orchideenwiese bei Gersheim</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Urwald_am_Kahlenberg_bei_Otzenhausen_thumbnail.jpg</image:loc>
+      <image:caption>Urwald bei Otzenhausen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Geschuetztes_Naturdenkmal_thumbnail.jpg</image:loc>
+      <image:caption>Geschütztes Naturdenkmal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Hexeneiche_Sankt_Avold_thumbnail.jpg</image:loc>
+      <image:caption>«Chêne des Sorcières» Sankt Avold</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Orchideenwiese_im_Bliesgau.jpg</image:loc>
+      <image:title>Orchideenwiese im Bliesgau</image:title>
+      <image:caption>Orchideenwiese im Bliesgau - 314472 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schoene_Eiche_im_Bliesgau.jpg</image:loc>
+      <image:title>Schoene Eiche im Bliesgau</image:title>
+      <image:caption>Schoene Eiche im Bliesgau - 348448 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Grosse_Saarschleife_und_Baumwipfelpfad_bei_Orscholz.jpg</image:loc>
+      <image:title>Grosse Saarschleife und Baumwipfelpfad bei Orscholz</image:title>
+      <image:caption>Grosse Saarschleife und Baumwipfelpfad bei Orscholz - 558910 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/katalog-naturdenkmale.jpg</image:loc>
+      <image:title>katalog naturdenkmale</image:title>
+      <image:caption>katalog naturdenkmale - 546216 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Eiche_und_Mardelle_im_Wald_von_Sierck-les-Bains.jpg</image:loc>
+      <image:title>Eiche und Mardelle im Wald von Sierck les Bains</image:title>
+      <image:caption>Eiche und Mardelle im Wald von Sierck les Bains - 764243 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Marieneiche_bei_Alttrier.jpg</image:loc>
+      <image:title>Marieneiche bei Alttrier</image:title>
+      <image:caption>Marieneiche bei Alttrier - 513413 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Habichtsbuche_Stennweiler.jpg</image:loc>
+      <image:title>Habichtsbuche Stennweiler</image:title>
+      <image:caption>Habichtsbuche Stennweiler - 693678 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schlucht_bei_Rissenthal.jpg</image:loc>
+      <image:title>Schlucht bei Rissenthal</image:title>
+      <image:caption>Schlucht bei Rissenthal - 741006 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Hexeneiche_Sankt_Avold.jpg</image:loc>
+      <image:title>Hexeneiche Sankt Avold</image:title>
+      <image:caption>Hexeneiche Sankt Avold - 553700 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Schlittchen_Loestertal.jpg</image:loc>
+      <image:title>Schlittchen Loestertal</image:title>
+      <image:caption>Schlittchen Loestertal - 585683 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Kaltensteine_auf_dem_Hoxberg.jpg</image:loc>
+      <image:title>Kaltensteine auf dem Hoxberg</image:title>
+      <image:caption>Kaltensteine auf dem Hoxberg - 573347 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Leitersweiler_Buche.jpg</image:loc>
+      <image:title>Leitersweiler Buche</image:title>
+      <image:caption>Leitersweiler Buche - 638651 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Zigeunereiche_bei_Obersalbach-Kurhof.jpg</image:loc>
+      <image:title>Zigeunereiche bei Obersalbach Kurhof</image:title>
+      <image:caption>Zigeunereiche bei Obersalbach Kurhof - 835452 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Urwald_in_der_Loesterschweiz.jpg</image:loc>
+      <image:title>Urwald in der Loesterschweiz</image:title>
+      <image:caption>Urwald in der Loesterschweiz - 708976 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Urwald_am_Kahlenberg_bei_Otzenhausen.jpg</image:loc>
+      <image:title>Urwald am Kahlenberg bei Otzenhausen</image:title>
+      <image:caption>Urwald am Kahlenberg bei Otzenhausen - 542932 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Alteiche_auf_der_Weide_bei_Sankt_Gangolf_im_Winter.jpg</image:loc>
+      <image:title>Alteiche auf der Weide bei Sankt Gangolf im Winter</image:title>
+      <image:caption>Alteiche auf der Weide bei Sankt Gangolf im Winter - 391882 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Eichen_Stuhlsatzenhaus.jpg</image:loc>
+      <image:title>Eichen Stuhlsatzenhaus</image:title>
+      <image:caption>Eichen Stuhlsatzenhaus - 598335 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Teufelsschornstein_Saarhoelzbach.jpg</image:loc>
+      <image:title>Teufelsschornstein Saarhoelzbach</image:title>
+      <image:caption>Teufelsschornstein Saarhoelzbach - 674585 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Geschuetztes_Naturdenkmal.jpg</image:loc>
+      <image:title>Geschuetztes Naturdenkmal</image:title>
+      <image:caption>Geschuetztes Naturdenkmal - 743456 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Konglomerat_Steinrutsch_bei_Dirmingen.jpg</image:loc>
+      <image:title>Konglomerat Steinrutsch bei Dirmingen</image:title>
+      <image:caption>Konglomerat Steinrutsch bei Dirmingen - 650227 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Alteiche_bei_Buttnich.jpg</image:loc>
+      <image:title>Alteiche bei Buttnich</image:title>
+      <image:caption>Alteiche bei Buttnich - 859731 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Naturfotografie_Saarland.jpg</image:loc>
+      <image:title>Naturfotografie Saarland</image:title>
+      <image:caption>Naturfotografie Saarland - 533029 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Hunnenring-Keltischer_Ringwall_Otzenhausen.jpg</image:loc>
+      <image:title>Hunnenring Keltischer Ringwall Otzenhausen</image:title>
+      <image:caption>Hunnenring Keltischer Ringwall Otzenhausen - 295784 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/saarlandschaft/Gefrorener_Wasserfall_Felsenweg_Sankt_Arnual.jpg</image:loc>
+      <image:title>Gefrorener Wasserfall Felsenweg Sankt Arnual</image:title>
+      <image:caption>Gefrorener Wasserfall Felsenweg Sankt Arnual - 602037 kilobyte</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.dihe.eu/portfolio/vergessene-orte.html</loc>
+    <lastmod>2019-12-11T10:10:43+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1896_thumbnail.jpg</image:loc>
+      <image:caption>Usine souterraine 1896</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Spiegelung_thumbnail.jpg</image:loc>
+      <image:caption>Spiegelung</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Der-Maschinist_thumbnail.jpg</image:loc>
+      <image:caption>Der-Maschinist</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Giger-Landscape-II_thumbnail.jpg</image:loc>
+      <image:caption>Giger Landscape II</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Explorateur_thumbnail.jpg.jpg</image:loc>
+      <image:caption>Explorateur</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1942_thumbnail.jpg</image:loc>
+      <image:caption>Usine souterraine 1942</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Endstation_thumbnail.jpg</image:loc>
+      <image:caption>Endstation</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/katalog-vergessene-orte_thumbnail.jpg</image:loc>
+      <image:caption>Vergessene Orte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1978_thumbnail.jpg</image:loc>
+      <image:caption>Usine souterraine 1978</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Metropolis_thumbnail.jpg</image:loc>
+      <image:caption>Metropolis</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Schattenm%C3%BChle_thumbnail.jpg</image:loc>
+      <image:caption>Schattenmühle</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/One-ne-passe-pas_thumbnail.jpg</image:loc>
+      <image:caption>One ne passe pas</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/images/backgrounds/weingeisterschloss-1920.jpg</image:loc>
+      <image:title>weingeisterschloss 1920</image:title>
+      <image:caption>weingeisterschloss 1920 - 688951 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/katalog-schattenwelten_thumbnail.jpg</image:loc>
+      <image:caption>Vergessene Orte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Fa%C3%AFencerie_thumbnail.jpg</image:loc>
+      <image:caption>Faïencerie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Ch%C3%A2teau-du-claire-de-lune_thumbnail.jpg</image:loc>
+      <image:caption>Château du claire de lune</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1896.jpg</image:loc>
+      <image:title>Usine souterraine 1896</image:title>
+      <image:caption>Usine souterraine 1896 - 679330 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Giger-Landscape-II.jpg</image:loc>
+      <image:title>Giger Landscape II</image:title>
+      <image:caption>Giger Landscape II - 729451 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Spiegelung.jpg</image:loc>
+      <image:title>Spiegelung</image:title>
+      <image:caption>Spiegelung - 503804 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Endstation.jpg</image:loc>
+      <image:title>Endstation</image:title>
+      <image:caption>Endstation - 799952 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1978.jpg</image:loc>
+      <image:title>Usine souterraine 1978</image:title>
+      <image:caption>Usine souterraine 1978 - 718445 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/katalog-schattenwelten.jpg</image:loc>
+      <image:title>katalog schattenwelten</image:title>
+      <image:caption>katalog schattenwelten - 353357 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Der-Maschinist.jpg</image:loc>
+      <image:title>Der Maschinist</image:title>
+      <image:caption>Der Maschinist - 535560 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Explorateur.jpg</image:loc>
+      <image:title>Explorateur</image:title>
+      <image:caption>Explorateur - 267273 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Metropolis.jpg</image:loc>
+      <image:title>Metropolis</image:title>
+      <image:caption>Metropolis - 489222 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/One-ne-passe-pas.jpg</image:loc>
+      <image:title>One ne passe pas</image:title>
+      <image:caption>One ne passe pas - 676703 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/schattenwelten/Usine-souterraine-1942.jpg</image:loc>
+      <image:title>Usine souterraine 1942</image:title>
+      <image:caption>Usine souterraine 1942 - 646979 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Schattenm%C3%BChle.jpg</image:loc>
+      <image:title>Schattenm%C3%BChle</image:title>
+      <image:caption>Schattenm%C3%BChle - 250998 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Ch%C3%A2teau-du-claire-de-lune.jpg</image:loc>
+      <image:title>Ch%C3%A2teau du claire de lune</image:title>
+      <image:caption>Ch%C3%A2teau du claire de lune - 351376 kilobyte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.dihe.eu/portfolio/vergessene-orte/Fa%C3%AFencerie.jpg</image:loc>
+      <image:title>Fa%C3%AFencerie</image:title>
+      <image:caption>Fa%C3%AFencerie - 457475 kilobyte</image:caption>
+    </image:image>
+  </url>
+</urlset>
