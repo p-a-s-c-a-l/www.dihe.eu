@@ -17,5 +17,6 @@
 		"telemetry.enableTelemetry": false,
 		"css.lint.float": "warning",
 		"html.autoClosingTags": false,
+		"cSpell.language": "de",
 	}
 }
