@@ -22,7 +22,7 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-$backend_url = "http://lightwidget.com/widgets/ba8018b66f7e5a91a1591aa7a413f2bb.html";
+$backend_url = "http://lightwidget.com/widgets/7f70deb5b8005800b182a4ea4ef717b0.html";
 $request_uri = $_SERVER['REQUEST_URI'];
 $uri_rel = "/frontpage-widget.php"; # URI to this file relative to public_html
 
@@ -52,13 +52,13 @@ function getRequestHeaders($multipart_delimiter=NULL) {
                 $key = str_replace(' ', '-', ucwords(strtolower(str_replace('_', ' ', substr($key, 5)))));
                 array_push($headers, "$key: $value");
             }
-        } elseif (preg_match("/^CONTENT_TYPE/", $key)) {
+        } /*elseif (preg_match("/^CONTENT_TYPE/", $key)) {
             if(preg_match("/^multipart/", strtolower($value)) && $multipart_delimiter) {
                 $key = "Content-Type";
                 $value = "multipart/form-data; boundary=" . $multipart_delimiter;
                 array_push($headers, "$key: $value");
             }
-        }
+        }*/
     }
     return $headers;
 }
@@ -89,10 +89,16 @@ function build_multipart_data_files($delimiter, $fields, $files) {
 }
 
 $curl = curl_init( $url );
-curl_setopt( $curl, CURLOPT_HTTPHEADER, getRequestHeaders() );
+//curl_setopt( $curl, CURLOPT_HTTPHEADER, getRequestHeaders() );
 curl_setopt( $curl, CURLOPT_FOLLOWLOCATION, true ); # follow redirects
 curl_setopt( $curl, CURLOPT_HEADER, true ); # include the headers in the output
 curl_setopt( $curl, CURLOPT_RETURNTRANSFER, true ); # return output as string
+curl_setopt($curl, CURLOPT_BINARYTRANSFER,false);
+curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, FALSE);
+curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($curl, CURLOPT_ENCODING , 'identity');
+curl_setopt($curl, CURLOPT_VERBOSE, 1);
+
 
 if ( strtolower($_SERVER['REQUEST_METHOD']) == 'post' ) {
     curl_setopt( $curl, CURLOPT_POST, true );
@@ -110,9 +116,8 @@ if ( strtolower($_SERVER['REQUEST_METHOD']) == 'post' ) {
 $contents = curl_exec( $curl ); # reverse proxy. the actual request to the backend server.
 curl_close( $curl ); # curl is done now
 
-
 list( $header_text, $contents ) = preg_split( '/([\r\n][\r\n])\\1/', $contents, 2 );
-
+//error_log($header_text);	 
 $headers_arr = preg_split( '/[\r\n]+/', $header_text ); 
   
 // Propagate headers to response.
@@ -126,6 +131,9 @@ foreach ( $headers_arr as $header ) {
     }
 }
 
-print $contents; # return the proxied request result to the browser
+// remove script tags: https://stackoverflow.com/a/7131156
+$html =  preg_replace('#<script(.*?)>(.*?)</script>#is', '', $contents);
+
+print $html; # return the proxied request result to the browser
 
 ?>
